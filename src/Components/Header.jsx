@@ -27,7 +27,7 @@ const Header = () => {
             </div>
           </div>
           <div>
-            <img src="public\homeimg.png" className=" w-96" alt="" />
+            <img src="/homeimg.png" className=" w-96" alt="" />
           </div>
         </div>
       </section>
