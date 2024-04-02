@@ -37,7 +37,7 @@ const Navbar = () => {
           <div className="flex h-16 items-center justify-between">
             <div className="md:flex md:items-center md:gap-12">
               <NavLink to="/home">
-                <img src="public\icons8-vegan-food-50.png" alt="" />
+                <img src="/icons8-vegan-food-50.png" alt="" />
               </NavLink>
             </div>
             <div className=" hidden  justify-between gap-5 sm:flex ">
